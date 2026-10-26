@@ -1,5 +1,7 @@
 # EXP-2-Record-Image-Acquisition-using-Web-Camera
-Aim:
+## Developed By: AYSHWARIYA J
+## Register No: 212224230030
+## Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 
@@ -39,8 +41,7 @@ Display Video or Image. Use 'imshow' to display the captured video frame or imag
 End Program with 'q'. Allow the program to be terminated by pressing the 'q' key.
 
 ## Program:
-### Developed By: AYSHWARIYA J
-### Register No: 212224230030
+
 ``` Python
 
 ## i) Write the frame as JPG file
@@ -120,7 +121,8 @@ cap.release()
 
 ### i) Write the frame as JPG image
 </br>
-<img width="813" height="632" alt="image" src="https://github.com/user-attachments/assets/b5c62bc1-8918-49c8-af0f-da92bf3a4cd3" />
+<img width="797" height="635" alt="image" src="https://github.com/user-attachments/assets/9f6c2b89-b7f0-4a77-bbd2-a2aa524647a2" />
+
 
 
 
@@ -129,7 +131,8 @@ cap.release()
 
 ### ii) Display the video
 </br>
-<img width="807" height="585" alt="image" src="https://github.com/user-attachments/assets/2dcea19b-172f-4403-baa3-4fe9ba6a10dd" />
+<img width="822" height="592" alt="image" src="https://github.com/user-attachments/assets/d31f19f6-c3b1-4cde-8697-07628e05829a" />
+
 
 
 </br>
@@ -137,7 +140,8 @@ cap.release()
 
 ### iii) Display the video by resizing the window
 </br>
-<img width="457" height="611" alt="image" src="https://github.com/user-attachments/assets/2b982526-5188-49ba-bd69-e840cba23106" />
+<img width="462" height="625" alt="image" src="https://github.com/user-attachments/assets/aa71b353-2b78-475b-8c3d-9f70686a1d54" />
+
 
 
 
@@ -147,7 +151,8 @@ cap.release()
 
 ### iv) Rotate and display the video
 </br>
-<img width="461" height="607" alt="image" src="https://github.com/user-attachments/assets/353d8275-385a-4e59-9a68-dff29716b927" />
+<img width="502" height="608" alt="image" src="https://github.com/user-attachments/assets/86bcd006-337e-474f-a67c-b797c23bc4aa" />
+
 
 
 </br>
